@@ -7,7 +7,7 @@
 
 ## 🚀 Projects
 - Face Detection Pipeline (C++ | OpenCV | GStreamer)
-- Smart Agriculture using AI/ML
+- Smart Agriculture using AI/ML (Python, TensorFlow, FastAPI, HTML&CSS)
 - Airline Recovery Analysis (Power BI)
 - Washine Machine Simulation (Embedded C)
 
