@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**adityakumar373/adityakumar373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech ECE student  
+💻 Interested in Software Development, AI & Computer Vision  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Face Detection Pipeline (C++ | OpenCV | GStreamer)
+- Smart Agriculture using AI/ML
+- Airline Recovery Analysis (Power BI)
+- Washine Machine Simulation (Embedded C)
+
+---
+
+## 🛠 Skills
+- C++, Python, C  
+- OpenCV, TensorFlow, NumPy, FastAPI
+- PostgreSQL, MySQL  
+- Linux, Git, GStreamer, Power BI, Ms Excel  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/adityakumar030703/
+- Email: adityakumar030703@gmail.com
