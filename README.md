@@ -6,6 +6,7 @@
 ---
 
 ## 🚀 Projects
+- Salesforce Website Clone (HTML | CSS)
 - Face Detection Pipeline (C++ | OpenCV | GStreamer)
 - Smart Agriculture using AI/ML (Python, TensorFlow, FastAPI, HTML&CSS)
 - Airline Recovery Analysis (Power BI)
@@ -14,7 +15,7 @@
 ---
 
 ## 🛠 Skills
-- C++, Python, C  
+- C++, Python, C, HTML, CSS
 - OpenCV, TensorFlow, NumPy, FastAPI
 - PostgreSQL, MySQL  
 - Linux, Git, GStreamer, Power BI, Ms Excel  
