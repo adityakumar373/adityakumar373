@@ -7,7 +7,7 @@
 
 ## 🚀 Projects
 - Job Application Tracker (HTML | CSS | JavaScript)
-- Retail Business Analytics (Python | | NumPy| Pandas | Jupyter Notebook | PostgreSQL | SQL | MS Excel | Power BI)
+- Retail Business Analytics (Python | NumPy | Pandas | Jupyter Notebook | PostgreSQL | SQL | MS Excel | Power BI)
 - Salesforce Website Clone (HTML | CSS)
 - Face Detection Pipeline (C++ | OpenCV | GStreamer)
 - Smart Agriculture using AI/ML (Python, TensorFlow, FastAPI, HTML&CSS, Matplotlib, NumPy)
