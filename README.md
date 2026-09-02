@@ -1,7 +1,7 @@
 # Hi, I'm Aditya 👋
 
-🎓 Final-year B.Tech ECE student  
-💻 Interested in Software Development, AI & Machine Learning and Data Analysis  
+Software Developer | Backend & AI Applications
+Python • FastAPI • PostgreSQL • GenAI • Business Intelligence
 
 ---
 
