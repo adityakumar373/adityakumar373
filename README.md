@@ -1,6 +1,7 @@
 # Hi, I'm Aditya 👋
 
 Software Developer | Backend & AI Applications
+
 Python • FastAPI • PostgreSQL • GenAI • Business Intelligence
 
 ---
