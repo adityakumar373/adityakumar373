@@ -2,11 +2,12 @@
 
 Software Developer | Backend & AI Applications
 
-Python • FastAPI • PostgreSQL • GenAI • Business Intelligence
+Python • FastAPI • PostgreSQL • Applied AI • Business Intelligence
 
 ---
 
 ## 🚀 Projects
+- AI Competitor Intelligence Platform (Python | FastAPI | PostgreSQL | Web Scraping | BeautifulSoup | HTML | CSS | JavaScript | Gemini API | Docker | GitHub)
 - Job Application Tracker (HTML | CSS | JavaScript)
 - Retail Business Analytics (Python | NumPy | Pandas | Jupyter Notebook | PostgreSQL | SQL | MS Excel | Power BI)
 - Salesforce Website Clone (HTML | CSS)
@@ -18,10 +19,10 @@ Python • FastAPI • PostgreSQL • GenAI • Business Intelligence
 ---
 
 ## 🛠 Skills
-- C++, Python, C, HTML, CSS
-- OpenCV, TensorFlow, NumPy, FastAPI
+- C++, Python, C, HTML, CSS, JavaScript, SQL
+- FastAPI, NumPy, Pandas, Matplotlib, OpenCV, TensorFlow
 - PostgreSQL, MySQL  
-- Linux, Git, GStreamer, Power BI, Ms Excel  
+- Linux, Git, Docker, Playwright, GSC, GCP, Jupyter Notebook, GStreamer, Power BI, Ms Excel  
 
 ---
 
