@@ -27,5 +27,6 @@ Python • FastAPI • PostgreSQL • Applied AI • Business Intelligence
 ---
 
 ## 📫 Connect with me
+- Portfolio: https://adityakumar-portfolio373.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/adityakumar030703/
 - Email: adityakumar030703@gmail.com
